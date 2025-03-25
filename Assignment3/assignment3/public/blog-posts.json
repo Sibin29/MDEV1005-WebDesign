@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "title": "My First Post",
+      "category": "Tech",
+      "content": "This is the content of my first post, where I talk about my journey in learning Vue 3 and how it's revolutionizing frontend development.",
+      "author": "John Doe",
+      "date": "2025-03-24T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Understanding Vue 3",
+      "category": "Tech",
+      "content": "In this post, I will explain the core concepts of Vue 3, such as the Composition API, reactivity, and lifecycle hooks, and why Vue is becoming so popular.",
+      "author": "Jane Smith",
+      "date": "2025-03-22T14:30:00Z"
+    },
+    {
+      "id": 3,
+      "title": "The Best Hiking Trails in the World",
+      "category": "Travel",
+      "content": "Hiking is an adventure for many people, and in this post, I will take you through some of the best hiking trails around the world, from the Appalachian Mountains to the Andes.",
+      "author": "Mark Johnson",
+      "date": "2025-03-20T09:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "5 Must-Have Tools for Game Development",
+      "category": "Games",
+      "content": "For aspiring game developers, this post provides a list of essential tools and software to help you get started, including Unity, Unreal Engine, and more.",
+      "author": "Alice Williams",
+      "date": "2025-03-18T16:45:00Z"
+    }
+  ]
