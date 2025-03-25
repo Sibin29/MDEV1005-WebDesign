@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "title": "My First Post",
+      "category": "Tech",
+      "content": "This is the content of my first post."
+    },
+    {
+      "id": 2,
+      "title": "Vue 3 Tutorial",
+      "category": "Tech",
+      "content": "Learn about Vue 3 and its powerful features."
+    }
+  ]
